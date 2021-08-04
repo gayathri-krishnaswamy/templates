@@ -3,6 +3,10 @@
 Method | syntax
 ----- | ----------
 GET | base_url/endpoint/etc.
+POST | base_url/endpoint/etc.
+DELETE | base_url/endpoint/etc.
+PUT | base_url/endpoint/etc.
+PATCH | base_url/endpoint/etc.
 
 <!-- Delete this comment after you have replaced the method and syntax above. -->
 
@@ -10,7 +14,26 @@ GET | base_url/endpoint/etc.
 
 <!-- Enter a short description. What is it for, and what can it do? -->
 
-Parameters
+## Parameters
+
+<!-- There are several types of parameters: header parameters, path parameters, and query string parameters. The different parameters are documented separately on the same page and not all endpoints contain each type of parameter -->
+
+### Header Parameters
+
+<!-- Parameters included in the request header usually related to authorization that are common across all endpoints. They are not usually documented for each endpoint. However, if your endpoint requires unique parameters to be passed in the header, they are documented in this section -->
+
+Header Name | Req. | Description | Values
+----------- |------|---------------- |------------
+Bearer | Y | Access Token | Token values the customer name
+Accept | N | Response Format | application/xml or application/json
+
+
+
+
+### Query Parameters
+
+
+### Body Parameters
 
 Name | type | Req. | Description
 ---- | ----- | ----- | --------------------
