@@ -43,6 +43,7 @@ issue_triaging
 outreach
 review_prs
 contributing_prs
+pr_tutorial
 ```
 
 :::{toctree}
