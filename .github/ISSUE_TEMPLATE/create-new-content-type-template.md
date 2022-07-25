@@ -17,7 +17,7 @@ Here are some examples:
 {Optional: In this section specify any pre-requisites or background knowledge that the templateer should know before working on a template.}
 
 1. Join The Good Docs Project [slack workspace](https://thegooddocs.slack.com/). 
-2. Read the [template contributing process](https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md#overview-of-the-template-writing-phases).
+2. Read the [template contributing process](https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md#overview-of-the-template-writing-phases.
 3. You are strongly encouraged to join one of the [working groups](https://thegooddocsproject.dev/working-group/) to get valuable support from the community such as mentorship, Git training, and helpful feedback as you contribute to your first template.
 4. Request access to the `templates` repository by joining the #templates channel in slack and posting a request. 
 5. Assign yourself to an issue for the template that you want to work on.
@@ -53,7 +53,7 @@ Keep the following points in mind while writing the description:
 
 ## Helpful resources
 {Optional: Add links to anything that might help the templateer write this particular type of template. For example, a Medium article about how to write good tutorials.}
-* [Template Contributing Process] (https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md)
+* [Template contributing process] (https://github.com/thegooddocsproject/templates/blob/dev/CONTRIBUTING.md)
 * [Template deliverables] (https://github.com/thegooddocsproject/templates/blob/dev/template-deliverables.md)
 * [Template roles and resources] (https://github.com/thegooddocsproject/templates/blob/dev/template-roles-and-resources.md)
   
